@@ -1,10 +1,10 @@
-### Hi there 👋
+<img align="right" src="/github-metrics.svg" alt="metrics"/>
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+# Tete 🐻
+Hey! 👋 I am an information systems student from Germany with lots of interests. Especially Python right now.
+
 
 <!--
-**TeteXQ/TeteXQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center"><img src="/github-metrics.svg" width="400" alt="Metrics" ></p>
 -->
