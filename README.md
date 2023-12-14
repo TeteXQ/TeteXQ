@@ -4,6 +4,9 @@
 Hey! 👋 I am an information systems student from Germany with lots of interests. Especially Python right now.
 
 
+## Projects i am currently working on:
+<a href="https://github.com/TeteXQ/Webscraping-Football-Predictor">Kraken - a webscraping football predictor</a>
+
 <!--
 Here are some ideas to get you started:
 
